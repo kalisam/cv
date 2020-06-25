@@ -1,0 +1,16 @@
+  body {
+      background-color: #00b8a9;
+    }
+    hr{
+
+      border: 1px dashed #f8f3d4;
+      text-align: left;
+      margin-left: 0;
+      width: 30%;
+    }
+h3 {
+  color: #f6416c;
+}
+h1 {
+  color:#f6416c;
+}
